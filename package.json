@@ -1,0 +1,10 @@
+{
+    "name": "modulename",
+    "version": "1.0.0",
+    "description": "node.js module for using OpenCV SURF detection",
+    "author": "Nick Holdren <nick@nickholdren.com>",
+    "keywords": [
+        "surf",
+        "OpenCV"
+    ]
+}
